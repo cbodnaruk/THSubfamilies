@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "naic1235"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7092,
+        "language": {
+          "pk": 7092,
+          "name": "Namuyi",
+          "longitude": 101.898,
+          "latitude": 28.5909,
+          "id": "namu1246"
+        },
+        "name": "Namuyi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.898,
+          28.5909
+        ]
+      },
+      "id": "namu1246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7094,
+        "language": {
+          "pk": 7094,
+          "name": "Naxi",
+          "longitude": 100,
+          "latitude": 27.5,
+          "id": "naxi1245"
+        },
+        "name": "Naxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100,
+          27.5
+        ]
+      },
+      "id": "naxi1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7094,
+        "language": {
+          "pk": 7094,
+          "name": "Laze",
+          "longitude": 101.45,
+          "latitude": 27.85,
+          "id": "laze1238"
+        },
+        "name": "Laze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.45,
+          27.85
+        ]
+      },
+      "id": "laze1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7094,
+        "language": {
+          "pk": 7094,
+          "name": "Narua",
+          "longitude": 100.9,
+          "latitude": 27.8,
+          "id": "yong1270"
+        },
+        "name": "Narua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9,
+          27.8
+        ]
+      },
+      "id": "yong1270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7093,
+        "language": {
+          "pk": 7093,
+          "name": "Shixing",
+          "longitude": 100.4,
+          "latitude": 28.3895,
+          "id": "shix1238"
+        },
+        "name": "Shixing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4,
+          28.3895
+        ]
+      },
+      "id": "shix1238"
+    }
+  ]
+}

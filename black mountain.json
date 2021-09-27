@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "olek1239"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9763,
+        "language": {
+          "pk": 9763,
+          "name": "Olekha",
+          "longitude": 90.5546,
+          "latitude": 27.2079,
+          "id": "olek1239"
+        },
+        "name": "Olekha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5546,
+          27.2079
+        ]
+      },
+      "id": "olek1239"
+    }
+  ]
+}

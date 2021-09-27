@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "rgya1241"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9746,
+        "language": {
+          "pk": 9746,
+          "name": "Northern Gyalrong",
+          "longitude": 102.22875,
+          "latitude": 31.60295,
+          "id": "jiar1240"
+        },
+        "name": "Northern Gyalrong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.22875,
+          31.60295
+        ]
+      },
+      "id": "jiar1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9746,
+        "language": {
+          "pk": 9746,
+          "name": "Situ",
+          "longitude": 102.660664,
+          "latitude": 31.590536,
+          "id": "situ1238"
+        },
+        "name": "Situ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.660664,
+          31.590536
+        ]
+      },
+      "id": "situ1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9746,
+        "language": {
+          "pk": 9746,
+          "name": "Tshobdun",
+          "longitude": 101.84,
+          "latitude": 32.18,
+          "id": "tsho1240"
+        },
+        "name": "Tshobdun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.84,
+          32.18
+        ]
+      },
+      "id": "tsho1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9746,
+        "language": {
+          "pk": 9746,
+          "name": "Japhug",
+          "longitude": 102.36,
+          "latitude": 32.1,
+          "id": "japh1234"
+        },
+        "name": "Japhug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.36,
+          32.1
+        ]
+      },
+      "id": "japh1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9746,
+        "language": {
+          "pk": 9746,
+          "name": "Zbu",
+          "longitude": 101.7048,
+          "latitude": 32.1506,
+          "id": "zbua1234"
+        },
+        "name": "Zbu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7048,
+          32.1506
+        ]
+      },
+      "id": "zbua1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9745,
+        "language": {
+          "pk": 9745,
+          "name": "Khroskyabs",
+          "longitude": 101.928,
+          "latitude": 31.5655,
+          "id": "guan1266"
+        },
+        "name": "Khroskyabs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.928,
+          31.5655
+        ]
+      },
+      "id": "guan1266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9745,
+        "language": {
+          "pk": 9745,
+          "name": "Stodsde",
+          "longitude": 102.63,
+          "latitude": 32.225,
+          "id": "shan1274"
+        },
+        "name": "Stodsde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.63,
+          32.225
+        ]
+      },
+      "id": "shan1274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9745,
+        "language": {
+          "pk": 9745,
+          "name": "Stau-Dgebshes",
+          "longitude": 101.72,
+          "latitude": 31.1026,
+          "id": "horp1239"
+        },
+        "name": "Stau-Dgebshes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.72,
+          31.1026
+        ]
+      },
+      "id": "horp1239"
+    }
+  ]
+}

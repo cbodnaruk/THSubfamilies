@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "karb1240"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4864,
+        "language": {
+          "pk": 4864,
+          "name": "Hills Karbi",
+          "longitude": 93.0462,
+          "latitude": 25.7317,
+          "id": "karb1241"
+        },
+        "name": "Hills Karbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0462,
+          25.7317
+        ]
+      },
+      "id": "karb1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4865,
+        "language": {
+          "pk": 4865,
+          "name": "Amri Karbi",
+          "longitude": 91.482,
+          "latitude": 26.024,
+          "id": "amri1238"
+        },
+        "name": "Amri Karbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.482,
+          26.024
+        ]
+      },
+      "id": "amri1238"
+    }
+  ]
+}

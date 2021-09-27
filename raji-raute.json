@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "raji1239"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3198,
+        "language": {
+          "pk": 3198,
+          "name": "Raute",
+          "longitude": 81.1617,
+          "latitude": 28.9518,
+          "id": "raut1239"
+        },
+        "name": "Raute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1617,
+          28.9518
+        ]
+      },
+      "id": "raut1239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3198,
+        "language": {
+          "pk": 3198,
+          "name": "Rawat",
+          "longitude": 80.8005,
+          "latitude": 30.0742,
+          "id": "rawa1264"
+        },
+        "name": "Rawat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8005,
+          30.0742
+        ]
+      },
+      "id": "rawa1264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3197,
+        "language": {
+          "pk": 3197,
+          "name": "Raji",
+          "longitude": 81.577,
+          "latitude": 28.6151,
+          "id": "raji1240"
+        },
+        "name": "Raji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.577,
+          28.6151
+        ]
+      },
+      "id": "raji1240"
+    }
+  ]
+}

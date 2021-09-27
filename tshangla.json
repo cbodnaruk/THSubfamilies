@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "tsha1247"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9764,
+        "language": {
+          "pk": 9764,
+          "name": "Kalaktang Monpa",
+          "longitude": 92.142965,
+          "latitude": 27.073067,
+          "id": "kala1376"
+        },
+        "name": "Kalaktang Monpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.142965,
+          27.073067
+        ]
+      },
+      "id": "kala1376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9765,
+        "language": {
+          "pk": 9765,
+          "name": "Tshangla",
+          "longitude": 91.7741,
+          "latitude": 27.3694,
+          "id": "tsha1245"
+        },
+        "name": "Tshangla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7741,
+          27.3694
+        ]
+      },
+      "id": "tsha1245"
+    }
+  ]
+}

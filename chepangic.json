@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "chep1244"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9947,
+        "language": {
+          "pk": 9947,
+          "name": "Bujhyal",
+          "longitude": 84.5068,
+          "latitude": 28.0084,
+          "id": "bujh1238"
+        },
+        "name": "Bujhyal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5068,
+          28.0084
+        ]
+      },
+      "id": "bujh1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9948,
+        "language": {
+          "pk": 9948,
+          "name": "Chepang",
+          "longitude": 84.9017,
+          "latitude": 27.7206,
+          "id": "chep1245"
+        },
+        "name": "Chepang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9017,
+          27.7206
+        ]
+      },
+      "id": "chep1245"
+    }
+  ]
+}

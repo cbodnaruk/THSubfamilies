@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "macr1268"
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Mising-Padam-Miri-Minyong",
+          "longitude": 94.69,
+          "latitude": 27.418,
+          "id": "misi1242"
+        },
+        "name": "Mising-Padam-Miri-Minyong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.69,
+          27.418
+        ]
+      },
+      "id": "misi1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Bori-Karko",
+          "longitude": 94.3538,
+          "latitude": 27.62812,
+          "id": "bori1243"
+        },
+        "name": "Bori-Karko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3538,
+          27.62812
+        ]
+      },
+      "id": "bori1243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Padam",
+          "longitude": 95.3668,
+          "latitude": 28.2463,
+          "id": "pada1257"
+        },
+        "name": "Padam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3668,
+          28.2463
+        ]
+      },
+      "id": "pada1257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Minyong",
+          "longitude": 95.0537,
+          "latitude": 28.2632,
+          "id": "miny1239"
+        },
+        "name": "Minyong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.0537,
+          28.2632
+        ]
+      },
+      "id": "miny1239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Damu",
+          "longitude": 95.5,
+          "latitude": 29.483,
+          "id": "damu1236"
+        },
+        "name": "Damu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.5,
+          29.483
+        ]
+      },
+      "id": "damu1236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Tangam",
+          "longitude": 94.98,
+          "latitude": 28.95,
+          "id": "tang1377"
+        },
+        "name": "Tangam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.98,
+          28.95
+        ]
+      },
+      "id": "tang1377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Apatani",
+          "longitude": 93.7284,
+          "latitude": 27.1933,
+          "id": "apat1240"
+        },
+        "name": "Apatani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7284,
+          27.1933
+        ]
+      },
+      "id": "apat1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Bokar-Ramo",
+          "longitude": 94.066429,
+          "latitude": 28.61433,
+          "id": "boka1249"
+        },
+        "name": "Bokar-Ramo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.066429,
+          28.61433
+        ]
+      },
+      "id": "boka1249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Galo",
+          "longitude": 94.6884956,
+          "latitude": 27.9805586,
+          "id": "galo1242"
+        },
+        "name": "Galo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6884956,
+          27.9805586
+        ]
+      },
+      "id": "galo1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Nyishi-Hill Miri",
+          "longitude": 93.675529,
+          "latitude": 27.278263,
+          "id": "nyis1236"
+        },
+        "name": "Nyishi-Hill Miri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.675529,
+          27.278263
+        ]
+      },
+      "id": "nyis1236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Na",
+          "longitude": 93.248908,
+          "latitude": 28.431524,
+          "id": "naaa1245"
+        },
+        "name": "Na"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.248908,
+          28.431524
+        ]
+      },
+      "id": "naaa1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Tagin",
+          "longitude": 94.221711,
+          "latitude": 27.986064,
+          "id": "tagi1241"
+        },
+        "name": "Tagin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.221711,
+          27.986064
+        ]
+      },
+      "id": "tagi1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3196,
+        "language": {
+          "pk": 3196,
+          "name": "Hill Miri",
+          "longitude": 94.0539,
+          "latitude": 26.9612,
+          "id": "hill1258"
+        },
+        "name": "Hill Miri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0539,
+          26.9612
+        ]
+      },
+      "id": "hill1258"
+    }
+  ]
+}

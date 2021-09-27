@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "tuji1244"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4842,
+        "language": {
+          "pk": 4842,
+          "name": "Northern Tujia",
+          "longitude": 109.759,
+          "latitude": 29.3016,
+          "id": "nort2732"
+        },
+        "name": "Northern Tujia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.759,
+          29.3016
+        ]
+      },
+      "id": "nort2732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4841,
+        "language": {
+          "pk": 4841,
+          "name": "Southern Tujia",
+          "longitude": 110.022,
+          "latitude": 28.2368,
+          "id": "sout2739"
+        },
+        "name": "Southern Tujia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.022,
+          28.2368
+        ]
+      },
+      "id": "sout2739"
+    }
+  ]
+}

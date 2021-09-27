@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "maga1261"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9943,
+        "language": {
+          "pk": 9943,
+          "name": "Eastern Magar",
+          "longitude": 87.06171,
+          "latitude": 27.4135166667,
+          "id": "east2352"
+        },
+        "name": "Eastern Magar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.06171,
+          27.4135166667
+        ]
+      },
+      "id": "east2352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 9942,
+        "language": {
+          "pk": 9942,
+          "name": "Western Magar",
+          "longitude": 83.511,
+          "latitude": 28.2462,
+          "id": "west2418"
+        },
+        "name": "Western Magar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.511,
+          28.2462
+        ]
+      },
+      "id": "west2418"
+    }
+  ]
+}

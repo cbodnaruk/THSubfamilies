@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "zeme1241"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4861,
+        "language": {
+          "pk": 4861,
+          "name": "Rongmei Naga",
+          "longitude": 93.7869,
+          "latitude": 25.098,
+          "id": "rong1266"
+        },
+        "name": "Rongmei Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7869,
+          25.098
+        ]
+      },
+      "id": "rong1266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4863,
+        "language": {
+          "pk": 4863,
+          "name": "Maram Naga",
+          "longitude": 94.2205,
+          "latitude": 25.4378,
+          "id": "mara1379"
+        },
+        "name": "Maram Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2205,
+          25.4378
+        ]
+      },
+      "id": "mara1379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4862,
+        "language": {
+          "pk": 4862,
+          "name": "Thangal Naga",
+          "longitude": 93.8396,
+          "latitude": 25.3472,
+          "id": "than1255"
+        },
+        "name": "Thangal Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8396,
+          25.3472
+        ]
+      },
+      "id": "than1255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4860,
+        "language": {
+          "pk": 4860,
+          "name": "Liangmai Naga",
+          "longitude": 93.542,
+          "latitude": 25.16,
+          "id": "lian1251"
+        },
+        "name": "Liangmai Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.542,
+          25.16
+        ]
+      },
+      "id": "lian1251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4860,
+        "language": {
+          "pk": 4860,
+          "name": "Zeme Naga",
+          "longitude": 93.6463,
+          "latitude": 25.3499,
+          "id": "zeme1240"
+        },
+        "name": "Zeme Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6463,
+          25.3499
+        ]
+      },
+      "id": "zeme1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4860,
+        "language": {
+          "pk": 4860,
+          "name": "Mzieme Naga",
+          "longitude": 93.71,
+          "latitude": 25.4779,
+          "id": "mzie1235"
+        },
+        "name": "Mzieme Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.71,
+          25.4779
+        ]
+      },
+      "id": "mzie1235"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "nung1293"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3177,
+        "language": {
+          "pk": 3177,
+          "name": "Nung (Myanmar)",
+          "longitude": 98.7333,
+          "latitude": 27.2887,
+          "id": "nung1282"
+        },
+        "name": "Nung (Myanmar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7333,
+          27.2887
+        ]
+      },
+      "id": "nung1282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3177,
+        "language": {
+          "pk": 3177,
+          "name": "Drung",
+          "longitude": 98.49449,
+          "latitude": 28.00792,
+          "id": "drun1238"
+        },
+        "name": "Drung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.49449,
+          28.00792
+        ]
+      },
+      "id": "drun1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3176,
+        "language": {
+          "pk": 3176,
+          "name": "Rawang",
+          "longitude": 97.0738,
+          "latitude": 27.1027,
+          "id": "rawa1265"
+        },
+        "name": "Rawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.0738,
+          27.1027
+        ]
+      },
+      "id": "rawa1265"
+    }
+  ]
+}

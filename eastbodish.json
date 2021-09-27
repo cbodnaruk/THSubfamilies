@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "tsha1246"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7110,
+        "language": {
+          "pk": 7110,
+          "name": "Kalaktang Monpa",
+          "longitude": 92.142965,
+          "latitude": 27.073067,
+          "id": "kala1376"
+        },
+        "name": "Kalaktang Monpa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.142965,
+          27.073067
+        ]
+      },
+      "id": "kala1376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7110,
+        "language": {
+          "pk": 7110,
+          "name": "Tshangla",
+          "longitude": 91.7741,
+          "latitude": 27.3694,
+          "id": "tsha1245"
+        },
+        "name": "Tshangla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7741,
+          27.3694
+        ]
+      },
+      "id": "tsha1245"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Dakpakha",
+          "longitude": 91.8245,
+          "latitude": 27.3762,
+          "id": "dakp1242"
+        },
+        "name": "Dakpakha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8245,
+          27.3762
+        ]
+      },
+      "id": "dakp1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Dzalakha",
+          "longitude": 91.374,
+          "latitude": 27.7855,
+          "id": "dzal1238"
+        },
+        "name": "Dzalakha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.374,
+          27.7855
+        ]
+      },
+      "id": "dzal1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Upper Mangdep",
+          "longitude": 90.3947,
+          "latitude": 27.3732,
+          "id": "nyen1254"
+        },
+        "name": "Upper Mangdep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3947,
+          27.3732
+        ]
+      },
+      "id": "nyen1254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Chalikha",
+          "longitude": 91.262,
+          "latitude": 27.3231,
+          "id": "chal1267"
+        },
+        "name": "Chalikha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.262,
+          27.3231
+        ]
+      },
+      "id": "chal1267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Kurtokha",
+          "longitude": 90.9822,
+          "latitude": 27.5365,
+          "id": "kurt1248"
+        },
+        "name": "Kurtokha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9822,
+          27.5365
+        ]
+      },
+      "id": "kurt1248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Bumthangkha",
+          "longitude": 90.8037,
+          "latitude": 27.6494,
+          "id": "bumt1240"
+        },
+        "name": "Bumthangkha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8037,
+          27.6494
+        ]
+      },
+      "id": "bumt1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Khengkha",
+          "longitude": 90.8633,
+          "latitude": 27.0879,
+          "id": "khen1241"
+        },
+        "name": "Khengkha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8633,
+          27.0879
+        ]
+      },
+      "id": "khen1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7109,
+        "language": {
+          "pk": 7109,
+          "name": "Ura",
+          "longitude": 90.9,
+          "latitude": 27.466667,
+          "id": "uraa1244"
+        },
+        "name": "Ura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9,
+          27.466667
+        ]
+      },
+      "id": "uraa1244"
+    }
+  ]
+}

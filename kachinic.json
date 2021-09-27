@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "jing1259"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4900,
+        "language": {
+          "pk": 4900,
+          "name": "Southern Jinghpaw",
+          "longitude": 97.3278,
+          "latitude": 25.4634,
+          "id": "kach1280"
+        },
+        "name": "Southern Jinghpaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3278,
+          25.4634
+        ]
+      },
+      "id": "kach1280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4900,
+        "language": {
+          "pk": 4900,
+          "name": "Northern Jinghpaw",
+          "longitude": 95.606,
+          "latitude": 27.296,
+          "id": "sing1264"
+        },
+        "name": "Northern Jinghpaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.606,
+          27.296
+        ]
+      },
+      "id": "sing1264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Chak",
+          "longitude": 92.5953,
+          "latitude": 21.4134,
+          "id": "chak1270"
+        },
+        "name": "Chak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5953,
+          21.4134
+        ]
+      },
+      "id": "chak1270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Burma Pyu",
+          "longitude": 95.897864,
+          "latitude": 21.31928,
+          "id": "burm1262"
+        },
+        "name": "Burma Pyu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.897864,
+          21.31928
+        ]
+      },
+      "id": "burm1262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Taman (Myanmar)",
+          "longitude": 95.1171,
+          "latitude": 25.1566,
+          "id": "tama1328"
+        },
+        "name": "Taman (Myanmar)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.1171,
+          25.1566
+        ]
+      },
+      "id": "tama1328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Kado",
+          "longitude": 100.092,
+          "latitude": 21.5259,
+          "id": "kado1242"
+        },
+        "name": "Kado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.092,
+          21.5259
+        ]
+      },
+      "id": "kado1242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Phayeng",
+          "longitude": 93.81704,
+          "latitude": 24.84615,
+          "id": "phay1241"
+        },
+        "name": "Phayeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.81704,
+          24.84615
+        ]
+      },
+      "id": "phay1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Sengmai",
+          "longitude": 93.881401,
+          "latitude": 24.945633,
+          "id": "seng1275"
+        },
+        "name": "Sengmai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.881401,
+          24.945633
+        ]
+      },
+      "id": "seng1275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4901,
+        "language": {
+          "pk": 4901,
+          "name": "Andro",
+          "longitude": 94.033796,
+          "latitude": 24.754303,
+          "id": "andr1246"
+        },
+        "name": "Andro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.033796,
+          24.754303
+        ]
+      },
+      "id": "andr1246"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "ersu1242"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7091,
+        "language": {
+          "pk": 7091,
+          "name": "Lizu",
+          "longitude": 101.350309,
+          "latitude": 28.333425,
+          "id": "lizu1234"
+        },
+        "name": "Lizu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.350309,
+          28.333425
+        ]
+      },
+      "id": "lizu1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7089,
+        "language": {
+          "pk": 7089,
+          "name": "Tosu",
+          "longitude": 102.083333,
+          "latitude": 28.533333,
+          "id": "tosu1234"
+        },
+        "name": "Tosu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.083333,
+          28.533333
+        ]
+      },
+      "id": "tosu1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7090,
+        "language": {
+          "pk": 7090,
+          "name": "Ersu",
+          "longitude": 102.213,
+          "latitude": 29.2867,
+          "id": "ersu1241"
+        },
+        "name": "Ersu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.213,
+          29.2867
+        ]
+      },
+      "id": "ersu1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7090,
+        "language": {
+          "pk": 7090,
+          "name": "Duoxu",
+          "longitude": 102.17708,
+          "latitude": 28.54981,
+          "id": "duox1238"
+        },
+        "name": "Duoxu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.17708,
+          28.54981
+        ]
+      },
+      "id": "duox1238"
+    }
+  ]
+}

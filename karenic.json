@@ -1,0 +1,468 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "kare1337"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3204,
+        "language": {
+          "pk": 3204,
+          "name": "Pa'o Karen",
+          "longitude": 97.5969,
+          "latitude": 20.211,
+          "id": "paok1235"
+        },
+        "name": "Pa'o Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.5969,
+          20.211
+        ]
+      },
+      "id": "paok1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3204,
+        "language": {
+          "pk": 3204,
+          "name": "Pwo Eastern Karen",
+          "longitude": 98.7355,
+          "latitude": 15.1915,
+          "id": "pwoe1235"
+        },
+        "name": "Pwo Eastern Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7355,
+          15.1915
+        ]
+      },
+      "id": "pwoe1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3204,
+        "language": {
+          "pk": 3204,
+          "name": "Pwo Western Karen",
+          "longitude": 97.7044,
+          "latitude": 17.3622,
+          "id": "pwow1235"
+        },
+        "name": "Pwo Western Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7044,
+          17.3622
+        ]
+      },
+      "id": "pwow1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3204,
+        "language": {
+          "pk": 3204,
+          "name": "Phrae Pwo Karen",
+          "longitude": 99.6382,
+          "latitude": 18.0048,
+          "id": "phra1235"
+        },
+        "name": "Phrae Pwo Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6382,
+          18.0048
+        ]
+      },
+      "id": "phra1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3204,
+        "language": {
+          "pk": 3204,
+          "name": "Pwo Northern Karen",
+          "longitude": 98.2709,
+          "latitude": 18.016,
+          "id": "pwon1235"
+        },
+        "name": "Pwo Northern Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.2709,
+          18.016
+        ]
+      },
+      "id": "pwon1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Mobwa Karen",
+          "longitude": 96.6027,
+          "latitude": 19.0443,
+          "id": "mobw1234"
+        },
+        "name": "Mobwa Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.6027,
+          19.0443
+        ]
+      },
+      "id": "mobw1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Bwe Karen",
+          "longitude": 96.9936,
+          "latitude": 18.9796,
+          "id": "bwek1238"
+        },
+        "name": "Bwe Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9936,
+          18.9796
+        ]
+      },
+      "id": "bwek1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Geba Karen",
+          "longitude": 96.9492,
+          "latitude": 19.4991,
+          "id": "geba1237"
+        },
+        "name": "Geba Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9492,
+          19.4991
+        ]
+      },
+      "id": "geba1237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Yintale Karen",
+          "longitude": 97.3368,
+          "latitude": 18.9378,
+          "id": "yint1235"
+        },
+        "name": "Yintale Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.3368,
+          18.9378
+        ]
+      },
+      "id": "yint1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Manumanaw Karen",
+          "longitude": 96.9531,
+          "latitude": 19.165,
+          "id": "manu1255"
+        },
+        "name": "Manumanaw Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.9531,
+          19.165
+        ]
+      },
+      "id": "manu1255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Brek Karen",
+          "longitude": 96.8365,
+          "latitude": 19.0561,
+          "id": "brek1238"
+        },
+        "name": "Brek Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.8365,
+          19.0561
+        ]
+      },
+      "id": "brek1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Eastern Kayah",
+          "longitude": 98.3359,
+          "latitude": 19.8939,
+          "id": "east2342"
+        },
+        "name": "Eastern Kayah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3359,
+          19.8939
+        ]
+      },
+      "id": "east2342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3203,
+        "language": {
+          "pk": 3203,
+          "name": "Western Kayah",
+          "longitude": 97.4877,
+          "latitude": 18.687,
+          "id": "west2409"
+        },
+        "name": "Western Kayah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.4877,
+          18.687
+        ]
+      },
+      "id": "west2409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3201,
+        "language": {
+          "pk": 3201,
+          "name": "Paku Karen",
+          "longitude": 97.1203,
+          "latitude": 18.8137,
+          "id": "paku1238"
+        },
+        "name": "Paku Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.1203,
+          18.8137
+        ]
+      },
+      "id": "paku1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3201,
+        "language": {
+          "pk": 3201,
+          "name": "S'gaw Karen",
+          "longitude": 97.7126,
+          "latitude": 17.9872,
+          "id": "sgaw1245"
+        },
+        "name": "S'gaw Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7126,
+          17.9872
+        ]
+      },
+      "id": "sgaw1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3201,
+        "language": {
+          "pk": 3201,
+          "name": "Wewaw",
+          "longitude": 96.540526,
+          "latitude": 19.020577,
+          "id": "wewa1238"
+        },
+        "name": "Wewaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.540526,
+          19.020577
+        ]
+      },
+      "id": "wewa1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3202,
+        "language": {
+          "pk": 3202,
+          "name": "Geko Karen",
+          "longitude": 96.5308,
+          "latitude": 19.6741,
+          "id": "geko1235"
+        },
+        "name": "Geko Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.5308,
+          19.6741
+        ]
+      },
+      "id": "geko1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3202,
+        "language": {
+          "pk": 3202,
+          "name": "Yinbaw Karen",
+          "longitude": 97.2134,
+          "latitude": 19.0383,
+          "id": "yinb1236"
+        },
+        "name": "Yinbaw Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.2134,
+          19.0383
+        ]
+      },
+      "id": "yinb1236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3202,
+        "language": {
+          "pk": 3202,
+          "name": "Lahta-Zayein Karen",
+          "longitude": 96.908,
+          "latitude": 20.16,
+          "id": "zaye1235"
+        },
+        "name": "Lahta-Zayein Karen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.908,
+          20.16
+        ]
+      },
+      "id": "zaye1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3202,
+        "language": {
+          "pk": 3202,
+          "name": "Kayan Lahwi",
+          "longitude": 97.4138,
+          "latitude": 19.5183,
+          "id": "kaya1315"
+        },
+        "name": "Kayan Lahwi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.4138,
+          19.5183
+        ]
+      },
+      "id": "kaya1315"
+    }
+  ]
+}

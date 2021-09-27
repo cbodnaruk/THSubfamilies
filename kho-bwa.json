@@ -1,0 +1,306 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "khob1235"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3168,
+        "language": {
+          "pk": 3168,
+          "name": "Bugun",
+          "longitude": 92.4713002,
+          "latitude": 27.1929556,
+          "id": "bugu1246"
+        },
+        "name": "Bugun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4713002,
+          27.1929556
+        ]
+      },
+      "id": "bugu1246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3167,
+        "language": {
+          "pk": 3167,
+          "name": "Western Puroik",
+          "longitude": 93.1364474,
+          "latitude": 27.6808861,
+          "id": "west2873"
+        },
+        "name": "Western Puroik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1364474,
+          27.6808861
+        ]
+      },
+      "id": "west2873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3167,
+        "language": {
+          "pk": 3167,
+          "name": "Eastern Puroik",
+          "longitude": 92.3840919,
+          "latitude": 27.3153778,
+          "id": "sulu1241"
+        },
+        "name": "Eastern Puroik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3840919,
+          27.3153778
+        ]
+      },
+      "id": "sulu1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Khispi",
+          "longitude": 92.2394672,
+          "latitude": 27.3688993,
+          "id": "lish1235"
+        },
+        "name": "Khispi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2394672,
+          27.3688993
+        ]
+      },
+      "id": "lish1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Duhumbi",
+          "longitude": 92.2255891,
+          "latitude": 27.4177713,
+          "id": "chug1252"
+        },
+        "name": "Duhumbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2255891,
+          27.4177713
+        ]
+      },
+      "id": "chug1252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Sartang",
+          "longitude": 92.409383,
+          "latitude": 27.375914,
+          "id": "sart1249"
+        },
+        "name": "Sartang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.409383,
+          27.375914
+        ]
+      },
+      "id": "sart1249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Sherdukpen",
+          "longitude": 92.5799,
+          "latitude": 27.0035,
+          "id": "sher1257"
+        },
+        "name": "Sherdukpen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5799,
+          27.0035
+        ]
+      },
+      "id": "sher1257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Khoina",
+          "longitude": 92.5104585,
+          "latitude": 27.3429306,
+          "id": "khoi1253"
+        },
+        "name": "Khoina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5104585,
+          27.3429306
+        ]
+      },
+      "id": "khoi1253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Rahung",
+          "longitude": 92.409383,
+          "latitude": 27.375914,
+          "id": "rahu1234"
+        },
+        "name": "Rahung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.409383,
+          27.375914
+        ]
+      },
+      "id": "rahu1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Jerigaon",
+          "longitude": 92.4685696,
+          "latitude": 27.3376444,
+          "id": "jeri1243"
+        },
+        "name": "Jerigaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4685696,
+          27.3376444
+        ]
+      },
+      "id": "jeri1243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Khoitam",
+          "longitude": 92.4360113,
+          "latitude": 27.3293889,
+          "id": "khoi1252"
+        },
+        "name": "Khoitam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4360113,
+          27.3293889
+        ]
+      },
+      "id": "khoi1252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Rupa",
+          "longitude": 92.3970446,
+          "latitude": 27.2029222,
+          "id": "rupa1234"
+        },
+        "name": "Rupa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3970446,
+          27.2029222
+        ]
+      },
+      "id": "rupa1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 3169,
+        "language": {
+          "pk": 3169,
+          "name": "Shergaon",
+          "longitude": 92.2578307,
+          "latitude": 27.1285861,
+          "id": "sher1261"
+        },
+        "name": "Shergaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2578307,
+          27.1285861
+        ]
+      },
+      "id": "sher1261"
+    }
+  ]

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "newa1245"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7206,
+        "language": {
+          "pk": 7206,
+          "name": "Kathmandu Valley Newari",
+          "longitude": 85.326,
+          "latitude": 27.67,
+          "id": "newa1246"
+        },
+        "name": "Kathmandu Valley Newari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.326,
+          27.67
+        ]
+      },
+      "id": "newa1246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7206,
+        "language": {
+          "pk": 7206,
+          "name": "Eastern Newari",
+          "longitude": 86.033964,
+          "latitude": 27.576985,
+          "id": "east2773"
+        },
+        "name": "Eastern Newari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.033964,
+          27.576985
+        ]
+      },
+      "id": "east2773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7205,
+        "language": {
+          "pk": 7205,
+          "name": "Thangmi",
+          "longitude": 85.7657,
+          "latitude": 28.7554,
+          "id": "than1259"
+        },
+        "name": "Thangmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7657,
+          28.7554
+        ]
+      },
+      "id": "than1259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7205,
+        "language": {
+          "pk": 7205,
+          "name": "Baraamu",
+          "longitude": 85.0584,
+          "latitude": 28.3768,
+          "id": "bara1357"
+        },
+        "name": "Baraamu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0584,
+          28.3768
+        ]
+      },
+      "id": "bara1357"
+    }
+  ]
+}

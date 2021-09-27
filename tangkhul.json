@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "tang1335"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4870,
+        "language": {
+          "pk": 4870,
+          "name": "Northern Tangkhul Naga",
+          "longitude": 94.551996,
+          "latitude": 25.247878,
+          "id": "nort3286"
+        },
+        "name": "Northern Tangkhul Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.551996,
+          25.247878
+        ]
+      },
+      "id": "nort3286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4870,
+        "language": {
+          "pk": 4870,
+          "name": "East-Central Tangkhul Naga",
+          "longitude": 94.3567,
+          "latitude": 25.0489,
+          "id": "tang1336"
+        },
+        "name": "East-Central Tangkhul Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3567,
+          25.0489
+        ]
+      },
+      "id": "tang1336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4870,
+        "language": {
+          "pk": 4870,
+          "name": "North-Central Tangkhul Naga",
+          "longitude": 94.204722,
+          "latitude": 25.156667,
+          "id": "nort3287"
+        },
+        "name": "North-Central Tangkhul Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.204722,
+          25.156667
+        ]
+      },
+      "id": "nort3287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4870,
+        "language": {
+          "pk": 4870,
+          "name": "Southern Tangkhul Naga",
+          "longitude": 94.247299,
+          "latitude": 25.73633,
+          "id": "khan1277"
+        },
+        "name": "Southern Tangkhul Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.247299,
+          25.73633
+        ]
+      },
+      "id": "khan1277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4870,
+        "language": {
+          "pk": 4870,
+          "name": "Suansu",
+          "longitude": 94.5803,
+          "latitude": 25.4333,
+          "id": "suan1234"
+        },
+        "name": "Suansu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5803,
+          25.4333
+        ]
+      },
+      "id": "suan1234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4869,
+        "language": {
+          "pk": 4869,
+          "name": "Khoibu",
+          "longitude": 94.1345,
+          "latitude": 24.2041,
+          "id": "khoi1251"
+        },
+        "name": "Khoibu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1345,
+          24.2041
+        ]
+      },
+      "id": "khoi1251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4869,
+        "language": {
+          "pk": 4869,
+          "name": "Maring Naga",
+          "longitude": 94.0723,
+          "latitude": 24.2854,
+          "id": "mari1416"
+        },
+        "name": "Maring Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0723,
+          24.2854
+        ]
+      },
+      "id": "mari1416"
+    }
+  ]
+}

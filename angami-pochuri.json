@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "anga1286"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7146,
+        "language": {
+          "pk": 7146,
+          "name": "Khezha Naga",
+          "longitude": 94.3114,
+          "latitude": 25.7078,
+          "id": "khez1235"
+        },
+        "name": "Khezha Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3114,
+          25.7078
+        ]
+      },
+      "id": "khez1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7146,
+        "language": {
+          "pk": 7146,
+          "name": "Mao Naga",
+          "longitude": 94.0035,
+          "latitude": 25.3836,
+          "id": "maon1238"
+        },
+        "name": "Mao Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.0035,
+          25.3836
+        ]
+      },
+      "id": "maon1238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7146,
+        "language": {
+          "pk": 7146,
+          "name": "Poumei Naga",
+          "longitude": 94.4618,
+          "latitude": 25.1944,
+          "id": "poum1235"
+        },
+        "name": "Poumei Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4618,
+          25.1944
+        ]
+      },
+      "id": "poum1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7146,
+        "language": {
+          "pk": 7146,
+          "name": "Angami Naga",
+          "longitude": 93.8668,
+          "latitude": 25.6841,
+          "id": "anga1288"
+        },
+        "name": "Angami Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.8668,
+          25.6841
+        ]
+      },
+      "id": "anga1288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7146,
+        "language": {
+          "pk": 7146,
+          "name": "Chokri Naga",
+          "longitude": 94.2887,
+          "latitude": 25.5636,
+          "id": "chok1243"
+        },
+        "name": "Chokri Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2887,
+          25.5636
+        ]
+      },
+      "id": "chok1243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7147,
+        "language": {
+          "pk": 7147,
+          "name": "Sumi Naga",
+          "longitude": 94.4235,
+          "latitude": 25.9996,
+          "id": "sumi1235"
+        },
+        "name": "Sumi Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.4235,
+          25.9996
+        ]
+      },
+      "id": "sumi1235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7147,
+        "language": {
+          "pk": 7147,
+          "name": "Southern Rengma Naga",
+          "longitude": 94.6853,
+          "latitude": 26.1178,
+          "id": "sout2732"
+        },
+        "name": "Southern Rengma Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6853,
+          26.1178
+        ]
+      },
+      "id": "sout2732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7145,
+        "language": {
+          "pk": 7145,
+          "name": "Pochuri Naga",
+          "longitude": 94.1119,
+          "latitude": 25.4478,
+          "id": "poch1243"
+        },
+        "name": "Pochuri Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1119,
+          25.4478
+        ]
+      },
+      "id": "poch1243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 7145,
+        "language": {
+          "pk": 7145,
+          "name": "Northern Rengma Naga",
+          "longitude": 94.5683,
+          "latitude": 26.4492,
+          "id": "nort2725"
+        },
+        "name": "Northern Rengma Naga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5683,
+          26.4492
+        ]
+      },
+      "id": "nort2725"
+    }
+  ]
+}
