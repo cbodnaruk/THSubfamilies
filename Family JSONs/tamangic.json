@@ -1,0 +1,353 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "kaik1248"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Seke (Nepal)",
+          "longitude": 83.8064,
+          "latitude": 28.9251,
+          "id": "seke1240"
+        },
+        "name": "Seke (Nepal)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8064,
+          28.9251
+        ]
+      },
+      "id": "seke1240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Southern Ghale",
+          "longitude": 84.8511,
+          "latitude": 28.106,
+          "id": "sout2715"
+        },
+        "name": "Southern Ghale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8511,
+          28.106
+        ]
+      },
+      "id": "sout2715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Northern Ghale",
+          "longitude": 84.929,
+          "latitude": 28.2332,
+          "id": "nort2709"
+        },
+        "name": "Northern Ghale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.929,
+          28.2332
+        ]
+      },
+      "id": "nort2709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Kutang Ghale",
+          "longitude": 84.93,
+          "latitude": 28.3808,
+          "id": "kuta1241"
+        },
+        "name": "Kutang Ghale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.93,
+          28.3808
+        ]
+      },
+      "id": "kuta1241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Eastern Gorkha Tamang",
+          "longitude": 84.9451,
+          "latitude": 28.2213,
+          "id": "east2346"
+        },
+        "name": "Eastern Gorkha Tamang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9451,
+          28.2213
+        ]
+      },
+      "id": "east2346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Eastern Tamang",
+          "longitude": 87.0832,
+          "latitude": 27.3239,
+          "id": "east2347"
+        },
+        "name": "Eastern Tamang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0832,
+          27.3239
+        ]
+      },
+      "id": "east2347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Western Tamang",
+          "longitude": 85.0563,
+          "latitude": 28.0239,
+          "id": "west2415"
+        },
+        "name": "Western Tamang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0563,
+          28.0239
+        ]
+      },
+      "id": "west2415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Gurung",
+          "longitude": 86.28988,
+          "latitude": 27.41687,
+          "id": "guru1261"
+        },
+        "name": "Gurung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.28988,
+          27.41687
+        ]
+      },
+      "id": "guru1261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Nar Phu",
+          "longitude": 84.22852,
+          "latitude": 28.76714,
+          "id": "narp1239"
+        },
+        "name": "Nar Phu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.22852,
+          28.76714
+        ]
+      },
+      "id": "narp1239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Manange",
+          "longitude": 84.0515,
+          "latitude": 28.6416,
+          "id": "mana1288"
+        },
+        "name": "Manange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0515,
+          28.6416
+        ]
+      },
+      "id": "mana1288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Western Gurung",
+          "longitude": 86.2899,
+          "latitude": 27.4169,
+          "id": "west2414"
+        },
+        "name": "Western Gurung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2899,
+          27.4169
+        ]
+      },
+      "id": "west2414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Eastern Gurung",
+          "longitude": 84.58145,
+          "latitude": 28.4368,
+          "id": "east2345"
+        },
+        "name": "Eastern Gurung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.58145,
+          28.4368
+        ]
+      },
+      "id": "east2345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Thakali",
+          "longitude": 83.6466,
+          "latitude": 28.7014,
+          "id": "thak1245"
+        },
+        "name": "Thakali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6466,
+          28.7014
+        ]
+      },
+      "id": "thak1245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4849,
+        "language": {
+          "pk": 4849,
+          "name": "Chantyal",
+          "longitude": 83.4488,
+          "latitude": 28.684,
+          "id": "chan1310"
+        },
+        "name": "Chantyal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4488,
+          28.684
+        ]
+      },
+      "id": "chan1310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkYwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7Ii8+Cjwvc3ZnPg==",
+        "branch": 4848,
+        "language": {
+          "pk": 4848,
+          "name": "Kaike",
+          "longitude": 83.1384,
+          "latitude": 28.853,
+          "id": "kaik1246"
+        },
+        "name": "Kaike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1384,
+          28.853
+        ]
+      },
+      "id": "kaik1246"
+    }
+  ]
+}
