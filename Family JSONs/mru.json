@@ -12,8 +12,8 @@
         "language": {
           "pk": 3199,
           "name": "Mru",
-          "longitude": 90.6317,
-          "latitude": 24.154,
+          "longitude": 92.32,
+          "latitude": 21.47,
           "id": "mruu1242"
         },
         "name": "Mru"
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6317,
-          24.154
+          92.32,
+          21.47
         ]
       },
       "id": "mruu1242"
